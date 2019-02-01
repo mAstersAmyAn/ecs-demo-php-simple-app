@@ -16,7 +16,7 @@
         <div class="container">
             <div class="hero-unit">
                 <h1>Telstra Service Assurance & Tooling CI/CD</h1>
-                <h2>Congratulations Samuel!!!</h2>
+                <h2>Congratulations Master Samuel!!!</h2>
                 <p>Your Telstra SAT application is now running on a Docker container in Amazon ECS.</p>
                 <p>The container is running PHP version <?php echo phpversion(); ?>.</p>
                 <?php
